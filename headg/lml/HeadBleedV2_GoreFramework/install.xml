@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EasyInstall>
+  <Name>Head Bleed V2: Gore Framework</Name>
+  <Author>iXzellent</Author>
+  <Version>1.0</Version>
+  <Link></Link>
+  <Metadata></Metadata>
+  <Resources>
+    <Resource>
+      <StreamingFiles>stream</StreamingFiles>
+      <DataFile type="DLC_ITYP_REQUEST" allowDuplicate="true">stream/hb_gore_props.ytyp</DataFile>
+      <FileReplacement>
+        <GamePath>update:/x64/packs/base/data/metapeds/assets_drawable.ymt</GamePath>
+        <FilePath>assets_drawable.ymt</FilePath>
+      </FileReplacement>
+    </Resource>
+  </Resources>
+</EasyInstall>

@@ -1,0 +1,6 @@
+Blood and Wounds v1.5 - BloodLust BloodCrave BloodBath and IIB compatible
+
+Copy BloodAndWounds.asi, BloodAndWounds.ini and lml into your RDR2 game folder. Allow replacements.
+Use only one compatibility folder. Keep the corresponding third-party mods installed normally.
+Give BloodAndWounds priority so its merged LML files load after them.
+For Custom Blood, install the optional download afterward using the same compatibility choice.

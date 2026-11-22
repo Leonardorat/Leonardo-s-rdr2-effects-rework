@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<EasyInstall>
+  <Name>BloodAndWounds</Name>
+  <Author>Blood and Wounds; BloodLust/BloodCrave/BloodBath by WhyEm; Improvements in Blood by Cazanu</Author>
+  <Version>1.5</Version>
+  <Link>
+  </Link>
+  <Metadata>Complete v1.5 installation with the selected LML compatibility profile.</Metadata>
+  <Resources>
+    <Resource>
+      <FileReplacement>
+        <GamePath>update:/x64/data/effects/projdecal.ymt</GamePath>
+        <FilePath>projdecal.ymt</FilePath>
+      </FileReplacement>
+    </Resource>
+    <Resource>
+      <FileReplacement>
+        <GamePath>update:/x64/data/effects/projdecalpacks.ymt</GamePath>
+        <FilePath>projdecalpacks.ymt</FilePath>
+      </FileReplacement>
+    </Resource>
+  </Resources>
+</EasyInstall>

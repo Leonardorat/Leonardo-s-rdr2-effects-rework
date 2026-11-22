@@ -1,0 +1,1451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeadBleedGoreEntries formatVersion="1" modVersion="1.0" sourceFile="assets_drawable.ymt" sourceSha256="C43BE413E23FE2CC205E5704A5105658560B9DD48B1764E8251253034A86F532" entryCount="41">
+  <MetaPedAssetList>
+    <drawableMale itemType="MetaPedAsset">
+      <!-- hb_cloak_mr1_001_alt01 -->
+      <Item>
+        <slodMask value="8936893872766976" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x5CBE0BCC</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x3C1A74CD</Item>
+          <Item>0x259430C8</Item>
+          <Item>0x2D394B8F</Item>
+          <Item>0xAA7A628E</Item>
+          <Item>0x34C65F5F</Item>
+          <Item>0x7D2A5349</Item>
+          <Item>0xCD45478C</Item>
+          <Item>0x1D71FC86</Item>
+          <Item>0xCFCF2E90</Item>
+          <Item>0x224DF712</Item>
+          <Item>0xFA59D35E</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x86BE1F8B</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x3C3B289A</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="5" />
+        <shaderId value="1" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_lose_eyes -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xEF923BFD</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xEA24B45E</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xA5EEDDEF</Item>
+          <Item>0x3192F37E</Item>
+          <Item>0x24F485D8</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="10" />
+        <lodThresh1 value="10" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="60" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_nose_blown_eyes -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x1D20A9E5</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xEA24B45E</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xA5EEDDEF</Item>
+          <Item>0x3192F37E</Item>
+          <Item>0x24F485D8</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="10" />
+        <lodThresh1 value="10" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="60" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_nose_blown_eyes_dangle -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x9F805EC3</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xEA24B45E</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xA5EEDDEF</Item>
+          <Item>0x3192F37E</Item>
+          <Item>0x24F485D8</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="10" />
+        <lodThresh1 value="10" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="60" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_top -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x52732E42</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x52732E42</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x52732E42</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_left -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x581FED29</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x581FED29</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x581FED29</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_right -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x14FBA506</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x14FBA506</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x14FBA506</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_lose -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x7CCEC8A9</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x7CCEC8A9</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x7CCEC8A9</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_less -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xD2A2AD08</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0xD2A2AD08</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xD2A2AD08</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_gone -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xDEADA918</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0xDEADA918</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xDEADA918</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_nose_blown -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xDB139F01</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0xDB139F01</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xDB139F01</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_cyclops -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xFFC9CF21</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0xFFC9CF21</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xFFC9CF21</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_cyclops_2 -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x3CBC5FAE</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x3CBC5FAE</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x3CBC5FAE</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_harelip -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xE113E855</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0xE113E855</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xE113E855</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.32" />
+          </Item>
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.21" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_l_beard_chops -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x7454129C</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xB6B63737</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_r_beard_chops -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x32BC80C5</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xB6B63737</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_lose_beard_chops -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x92A5E961</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xB6B63737</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_less_beard_chops -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x8B4E944A</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xB6B63737</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_gone_beard_chops -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x19058C1C</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xB6B63737</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_nose_blown_beard_chops -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xD21AB7CC</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xB6B63737</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_l_beard_complete -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x8CD9B2BA</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xF8016BCA</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_r_beard_complete -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x475EFC9A</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xF8016BCA</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_lose_beard_complete -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xCDD1082B</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xF8016BCA</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_less_beard_complete -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xA4638F05</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xF8016BCA</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_jaw_gone_beard_complete -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x6EFCCE0D</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xF8016BCA</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_nose_blown_beard_complete -->
+      <Item>
+        <slodMask value="524288" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x59C209ED</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xF8016BCA</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="2" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_nose_blown_beard_stache -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xB83CAE20</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x31AAA704</Item>
+          <Item>0xECC8B25A</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x65F14DF4</Item>
+          <Item>0x224DF712</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xF473FA52</Item>
+          <Item>0x6F72FF52</Item>
+          <Item>0x9335225D</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet>0x452F125E</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_mr1_top_hair -->
+      <Item>
+        <slodMask value="262144" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xFB0BEFA3</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x864B03AE</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xFB0BEFA3</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x37C455A9</Item>
+          <Item>0x224DF712</Item>
+          <Item>0xE9399680</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x5F5D5368</Item>
+          <Item>0x473B7136</Item>
+          <Item>0x18EA5BB3</Item>
+          <Item>0x8D79E5DB</Item>
+          <Item>0xD875658E</Item>
+          <Item>0xD25F010F</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="3" />
+        <shaderId value="30" />
+        <useTintPalette value="False" />
+      </Item>
+    </drawableMale>
+    <drawableFemale itemType="MetaPedAsset">
+      <!-- hb_g_fr1_nose_blown_eyes -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x32D1749D</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xEA24B45E</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0x32D1749D</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x9A4CFFB2</Item>
+          <Item>0x38B50713</Item>
+          <Item>0x65389058</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="10" />
+        <lodThresh1 value="10" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="60" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_nose_blown_eyes_dangle -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x4A616260</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xEA24B45E</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0x4A616260</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x9A4CFFB2</Item>
+          <Item>0x38B50713</Item>
+          <Item>0x65389058</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="10" />
+        <lodThresh1 value="10" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="60" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_jaw_lose_eyes -->
+      <Item>
+        <slodMask value="0" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x8FDBD39D</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xEA24B45E</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0x8FDBD39D</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x9A4CFFB2</Item>
+          <Item>0x38B50713</Item>
+          <Item>0x65389058</Item>
+        </matchTags>
+        <restrictions />
+        <expressions />
+        <expressionSet />
+        <lodThresh0 value="10" />
+        <lodThresh1 value="10" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="60" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_cyclops -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x78785BF2</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_cyclops_2 -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x56751D1C</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_nose_blown -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x295143A6</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_harelip -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xFFB9A8EE</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_jaw_left -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x0CE4118C</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_jaw_right -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x0164F000</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_jaw_lose -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x80FA9029</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_jaw_less -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x5F3D3B95</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_g_fr1_jaw_gone -->
+      <Item>
+        <slodMask value="4128768" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0x10AFA037</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0xAC2315DA</Item>
+          <Item>0x378AD10C</Item>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0xD5F7712C</Item>
+          <Item>0xF2096B88</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0x378AD10C</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0xC581CD5C</expName>
+            <expVal value="-0.48" />
+          </Item>
+          <Item>
+            <expName>0xB48FE027</expName>
+            <expVal value="-0.28" />
+          </Item>
+          <Item>
+            <expName>0x532ABD7B</expName>
+            <expVal value="0.25" />
+          </Item>
+          <Item>
+            <expName>0x2FA662ED</expName>
+            <expVal value="0.25" />
+          </Item>
+        </expressions>
+        <expressionSet />
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="0" />
+        <shaderId value="50" />
+        <useTintPalette value="False" />
+      </Item>
+      <!-- hb_hat_fr1_045 -->
+      <Item>
+        <slodMask value="2097152" />
+        <slodMask1 value="0" />
+        <slodMask2 value="0" />
+        <guid>0xB6563B45</guid>
+        <guidHd />
+        <propertyTags>
+          <Item>0x2454D0C0</Item>
+          <Item>0x31AAA704</Item>
+          <Item>0x0CCD9EC2</Item>
+          <Item>0x9925C067</Item>
+          <Item>0xCFCF2E90</Item>
+          <Item>0xF2096B88</Item>
+          <Item>0x5263E6B5</Item>
+        </propertyTags>
+        <matchTags>
+          <Item>0xB6563B45</Item>
+        </matchTags>
+        <restrictions />
+        <expressions itemType="MetaPedAnimExpression">
+          <Item>
+            <expName>0x667E57EF</expName>
+            <expVal value="1" />
+          </Item>
+          <Item>
+            <expName>0xCE9B3566</expName>
+            <expVal value="0" />
+          </Item>
+          <Item>
+            <expName>0xF2E446C4</expName>
+            <expVal value="0" />
+          </Item>
+          <Item>
+            <expName>0x9A133D54</expName>
+            <expVal value="0" />
+          </Item>
+          <Item>
+            <expName>0x7ABBF9A2</expName>
+            <expVal value="-0.463" />
+          </Item>
+          <Item>
+            <expName>0xB663D523</expName>
+            <expVal value="0.104" />
+          </Item>
+          <Item>
+            <expName>0x5325C230</expName>
+            <expVal value="-0.87" />
+          </Item>
+          <Item>
+            <expName>0x97937E04</expName>
+            <expVal value="2" />
+          </Item>
+        </expressions>
+        <expressionSet>0x00BE71CA</expressionSet>
+        <lodThresh0 value="0" />
+        <lodThresh1 value="0" />
+        <slodColor value="0" />
+        <slodLayer value="5" />
+        <shaderId value="1" />
+        <useTintPalette value="False" />
+      </Item>
+    </drawableFemale>
+  </MetaPedAssetList>
+</HeadBleedGoreEntries>
