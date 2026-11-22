@@ -4558,8 +4558,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.56000000" />
       <UNK_MEMBER_0x468C9543 value="0.64000000" />
       <UNK_MEMBER_0x82AA5434 value="0.56000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4594,8 +4594,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.90000000" />
       <UNK_MEMBER_0x468C9543 value="0.75000000" />
       <UNK_MEMBER_0x82AA5434 value="0.90000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4630,8 +4630,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.99000000" />
       <UNK_MEMBER_0x468C9543 value="0.77000000" />
       <UNK_MEMBER_0x82AA5434 value="0.99000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4666,8 +4666,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.99000000" />
       <UNK_MEMBER_0x468C9543 value="0.77000000" />
       <UNK_MEMBER_0x82AA5434 value="0.99000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4702,8 +4702,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.56000000" />
       <UNK_MEMBER_0x468C9543 value="0.64000000" />
       <UNK_MEMBER_0x82AA5434 value="0.56000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4738,8 +4738,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.50000000" />
       <UNK_MEMBER_0x468C9543 value="0.45000000" />
       <UNK_MEMBER_0x82AA5434 value="0.50000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4774,8 +4774,8 @@
       <UNK_MEMBER_0xEEE53128 value="0.90000000" />
       <UNK_MEMBER_0x468C9543 value="0.75000000" />
       <UNK_MEMBER_0x82AA5434 value="0.90000000" />
-      <decalLifeMin value="1000.00000000" />
-      <decalLifeMax value="1200.00000000" />
+      <decalLifeMin value="2000.00000000" />
+      <decalLifeMax value="2400.00000000" />
       <UNK_MEMBER_0xC9D57669 value="0.30000000" />
       <decalGrowthTime value="0.05000000" />
       <UNK_MEMBER_0xCCACC2FD value="0.80000000" />
@@ -4986,7 +4986,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x0BA9F30F</Item>
           </pedDamageHashNames>
@@ -5001,7 +5001,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7DC7A9AD</Item>
           </pedDamageHashNames>
@@ -5016,7 +5016,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -5027,7 +5027,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -5042,7 +5042,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xF85A3B60</Item>
           </pedDamageHashNames>
@@ -5057,7 +5057,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.65000000" />
+          <pedDamageScale value="3.30000000" />
           <pedDamageHashNames>
             <Item>0x99AFD19B</Item>
           </pedDamageHashNames>
@@ -5068,7 +5068,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x15EE6D21</Item>
           </pedDamageHashNames>
@@ -5079,7 +5079,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x15EE6D21</Item>
           </pedDamageHashNames>
@@ -5094,7 +5094,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xB5E14B73</Item>
           </pedDamageHashNames>
@@ -5109,7 +5109,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x431E9524</Item>
           </pedDamageHashNames>
@@ -5124,7 +5124,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x143E37F0</Item>
           </pedDamageHashNames>
@@ -5139,7 +5139,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xBE7880C4</Item>
           </pedDamageHashNames>
@@ -5154,7 +5154,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xE1E450D9</Item>
           </pedDamageHashNames>
@@ -5169,7 +5169,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7C5BAAF4</Item>
           </pedDamageHashNames>
@@ -5184,7 +5184,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.10000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xCF5CC7CC</Item>
           </pedDamageHashNames>
@@ -5195,7 +5195,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x42F8205F</Item>
           </pedDamageHashNames>
@@ -5206,7 +5206,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x42F8205F</Item>
           </pedDamageHashNames>
@@ -5221,7 +5221,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xB2A28E7F</Item>
           </pedDamageHashNames>
@@ -5232,7 +5232,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xBAE98ADD</Item>
           </pedDamageHashNames>
@@ -5243,7 +5243,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAB7D5B5F</Item>
           </pedDamageHashNames>
@@ -5254,7 +5254,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x9CB0C350</Item>
           </pedDamageHashNames>
@@ -5269,7 +5269,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x9A689609</Item>
           </pedDamageHashNames>
@@ -5284,7 +5284,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xBFF2A887</Item>
           </pedDamageHashNames>
@@ -5299,7 +5299,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x703A316B</Item>
           </pedDamageHashNames>
@@ -5314,7 +5314,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xD7674B1E</Item>
           </pedDamageHashNames>
@@ -5329,7 +5329,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -5340,7 +5340,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x49633EFA</Item>
           </pedDamageHashNames>
@@ -5351,7 +5351,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x49633EFA</Item>
           </pedDamageHashNames>
@@ -5366,7 +5366,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.85000000" />
+          <pedDamageScale value="1.70000000" />
           <pedDamageHashNames>
             <Item>0x5BDC0858</Item>
             <Item>0x6A74567C</Item>
@@ -5382,7 +5382,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7A7AD6A8</Item>
           </pedDamageHashNames>
@@ -5397,7 +5397,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xCB8EB9EE</Item>
           </pedDamageHashNames>
@@ -5412,7 +5412,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xF3DBA14D</Item>
           </pedDamageHashNames>
@@ -5427,7 +5427,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xDE72EFAD</Item>
           </pedDamageHashNames>
@@ -5442,7 +5442,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x8F74BA80</Item>
           </pedDamageHashNames>
@@ -5457,7 +5457,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xE07561C0</Item>
           </pedDamageHashNames>
@@ -5472,7 +5472,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xD53FEFEE</Item>
           </pedDamageHashNames>
@@ -5487,7 +5487,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.50000000" />
+          <pedDamageScale value="1.00000000" />
           <pedDamageHashNames>
             <Item>0x4361D81D</Item>
           </pedDamageHashNames>
@@ -5502,7 +5502,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x0CB5BC13</Item>
           </pedDamageHashNames>
@@ -5517,7 +5517,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7382B752</Item>
           </pedDamageHashNames>
@@ -5532,7 +5532,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x36719C7C</Item>
           </pedDamageHashNames>
@@ -5543,7 +5543,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x1DB0FDCA</Item>
           </pedDamageHashNames>
@@ -5554,7 +5554,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x1DB0FDCA</Item>
           </pedDamageHashNames>
@@ -5569,7 +5569,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xA01618EC</Item>
           </pedDamageHashNames>
@@ -5584,7 +5584,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x5A4B728F</Item>
           </pedDamageHashNames>
@@ -5599,7 +5599,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x104E3C40</Item>
           </pedDamageHashNames>
@@ -5614,7 +5614,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xFEBD4965</Item>
           </pedDamageHashNames>
@@ -5629,7 +5629,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xE03C793B</Item>
           </pedDamageHashNames>
@@ -5644,7 +5644,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.90000000" />
+          <pedDamageScale value="1.80000000" />
           <pedDamageHashNames>
             <Item>0xB2A28E7F</Item>
           </pedDamageHashNames>
@@ -5655,7 +5655,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xBAE98ADD</Item>
           </pedDamageHashNames>
@@ -5666,7 +5666,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x15EE6D21</Item>
           </pedDamageHashNames>
@@ -5677,7 +5677,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x96B75BCB</Item>
           </pedDamageHashNames>
@@ -5692,7 +5692,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xDAB92249</Item>
           </pedDamageHashNames>
@@ -5703,7 +5703,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xDE154C6E</Item>
           </pedDamageHashNames>
@@ -5714,7 +5714,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0xDE154C6E</Item>
           </pedDamageHashNames>
@@ -5729,7 +5729,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xDA1D04F6</Item>
           </pedDamageHashNames>
@@ -5744,7 +5744,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7273A92B</Item>
           </pedDamageHashNames>
@@ -5759,7 +5759,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x6138B05A</Item>
           </pedDamageHashNames>
@@ -5774,7 +5774,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.10000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xC1CE06A5</Item>
           </pedDamageHashNames>
@@ -5785,7 +5785,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xB4B834DD</Item>
           </pedDamageHashNames>
@@ -5796,7 +5796,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0xDE154C6E</Item>
           </pedDamageHashNames>
@@ -5811,7 +5811,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x6B6CB2A4</Item>
           </pedDamageHashNames>
@@ -5826,7 +5826,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x0D45FE9F</Item>
           </pedDamageHashNames>
@@ -5841,7 +5841,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x37F946A1</Item>
           </pedDamageHashNames>
@@ -5856,7 +5856,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xF4C32FC2</Item>
           </pedDamageHashNames>
@@ -5871,7 +5871,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x03051CAA</Item>
           </pedDamageHashNames>
@@ -5886,7 +5886,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x8816BB03</Item>
           </pedDamageHashNames>
@@ -5901,7 +5901,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.10000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xC1CE06A5</Item>
           </pedDamageHashNames>
@@ -5912,7 +5912,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x43003097</Item>
           </pedDamageHashNames>
@@ -5923,7 +5923,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x43003097</Item>
           </pedDamageHashNames>
@@ -5938,7 +5938,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xEF56CC36</Item>
           </pedDamageHashNames>
@@ -5953,7 +5953,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x93E29BAF</Item>
           </pedDamageHashNames>
@@ -5968,7 +5968,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>PD_BULLETFATALSHOTGUN_ENEMY</Item>
           </pedDamageHashNames>
@@ -5983,7 +5983,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x443FA10C</Item>
           </pedDamageHashNames>
@@ -5994,7 +5994,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x0CF290E5</Item>
           </pedDamageHashNames>
@@ -6005,7 +6005,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x0CF290E5</Item>
           </pedDamageHashNames>
@@ -6020,7 +6020,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xB4741464</Item>
           </pedDamageHashNames>
@@ -6035,7 +6035,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xDAB92249</Item>
           </pedDamageHashNames>
@@ -6046,7 +6046,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xF699000B</Item>
           </pedDamageHashNames>
@@ -6057,7 +6057,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0xF699000B</Item>
           </pedDamageHashNames>
@@ -6072,7 +6072,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x59708716</Item>
           </pedDamageHashNames>
@@ -6087,7 +6087,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x91587B0E</Item>
           </pedDamageHashNames>
@@ -6102,7 +6102,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xA0788044</Item>
           </pedDamageHashNames>
@@ -6117,7 +6117,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xCD96EA76</Item>
           </pedDamageHashNames>
@@ -6132,7 +6132,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.20000000" />
+          <pedDamageScale value="2.40000000" />
           <pedDamageHashNames>
             <Item>0x8816BB03</Item>
           </pedDamageHashNames>
@@ -6143,7 +6143,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x8816BB03</Item>
           </pedDamageHashNames>
@@ -6158,7 +6158,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xD7645925</Item>
           </pedDamageHashNames>
@@ -6173,7 +6173,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.90000000" />
+          <pedDamageScale value="1.80000000" />
           <pedDamageHashNames>
             <Item>0xD2DBDA1B</Item>
           </pedDamageHashNames>
@@ -6184,7 +6184,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xC202BBDB</Item>
           </pedDamageHashNames>
@@ -6195,7 +6195,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x1DB0FDCA</Item>
           </pedDamageHashNames>
@@ -6206,7 +6206,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -6221,7 +6221,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xE65A7C88</Item>
           </pedDamageHashNames>
@@ -6236,7 +6236,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x7B8E47BD</Item>
           </pedDamageHashNames>
@@ -6247,7 +6247,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>PD_BULLETCRITICALRIFLE_ENEMY</Item>
           </pedDamageHashNames>
@@ -6258,7 +6258,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>PD_BULLETCRITICALRIFLE_ENEMY</Item>
           </pedDamageHashNames>
@@ -6273,7 +6273,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x1D76DA23</Item>
           </pedDamageHashNames>
@@ -6288,7 +6288,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xD39BB71B</Item>
           </pedDamageHashNames>
@@ -6303,7 +6303,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x99AFD19B</Item>
           </pedDamageHashNames>
@@ -6314,7 +6314,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x96B75BCB</Item>
           </pedDamageHashNames>
@@ -6325,7 +6325,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x96B75BCB</Item>
           </pedDamageHashNames>
@@ -6340,7 +6340,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.90000000" />
+          <pedDamageScale value="1.80000000" />
           <pedDamageHashNames>
             <Item>0xD2DBDA1B</Item>
           </pedDamageHashNames>
@@ -6351,7 +6351,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xC202BBDB</Item>
           </pedDamageHashNames>
@@ -6362,7 +6362,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x1DB0FDCA</Item>
           </pedDamageHashNames>
@@ -6373,7 +6373,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -6388,7 +6388,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAA8BB007</Item>
           </pedDamageHashNames>
@@ -6399,7 +6399,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAA8BB007</Item>
           </pedDamageHashNames>
@@ -6410,7 +6410,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x95DB1C54</Item>
           </pedDamageHashNames>
@@ -6421,7 +6421,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xA59A9382</Item>
           </pedDamageHashNames>
@@ -6436,7 +6436,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAC16B6DC</Item>
           </pedDamageHashNames>
@@ -6451,7 +6451,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xDBB42E8C</Item>
           </pedDamageHashNames>
@@ -6466,7 +6466,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.25000000" />
+          <pedDamageScale value="2.50000000" />
           <pedDamageHashNames>
             <Item>0x99AFD19B</Item>
           </pedDamageHashNames>
@@ -6477,7 +6477,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x99AFD19B</Item>
           </pedDamageHashNames>
@@ -6488,7 +6488,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -6503,7 +6503,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x1F92C608</Item>
           </pedDamageHashNames>
@@ -6518,7 +6518,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.20000000" />
+          <pedDamageScale value="2.40000000" />
           <pedDamageHashNames>
             <Item>0x51EF05C2</Item>
           </pedDamageHashNames>
@@ -6533,7 +6533,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x96B75BCB</Item>
           </pedDamageHashNames>
@@ -6544,7 +6544,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x96B75BCB</Item>
           </pedDamageHashNames>
@@ -6559,7 +6559,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.30000000" />
+          <pedDamageScale value="2.60000000" />
           <pedDamageHashNames>
             <Item>0x829F3008</Item>
           </pedDamageHashNames>
@@ -6574,7 +6574,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x98D830A1</Item>
           </pedDamageHashNames>
@@ -6589,7 +6589,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7E9A5F1C</Item>
           </pedDamageHashNames>
@@ -6604,7 +6604,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x24857807</Item>
           </pedDamageHashNames>
@@ -6619,7 +6619,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x31C4CC21</Item>
           </pedDamageHashNames>
@@ -6634,7 +6634,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x453B85C0</Item>
           </pedDamageHashNames>
@@ -6649,7 +6649,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x36719C7C</Item>
           </pedDamageHashNames>
@@ -6660,7 +6660,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -6671,7 +6671,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -6686,7 +6686,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.75000000" />
+          <pedDamageScale value="3.50000000" />
           <pedDamageHashNames>
             <Item>0x1F92C608</Item>
           </pedDamageHashNames>
@@ -6701,7 +6701,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x443FA10C</Item>
           </pedDamageHashNames>
@@ -6712,7 +6712,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x443FA10C</Item>
           </pedDamageHashNames>
@@ -6723,7 +6723,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x443FA10C</Item>
           </pedDamageHashNames>
@@ -6738,7 +6738,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x8BFA9A2F</Item>
           </pedDamageHashNames>
@@ -6753,7 +6753,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.10000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xAF6A03E9</Item>
           </pedDamageHashNames>
@@ -6764,7 +6764,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAF6A03E9</Item>
           </pedDamageHashNames>
@@ -6775,7 +6775,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x443FA10C</Item>
           </pedDamageHashNames>
@@ -6790,7 +6790,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.10000000" />
+          <pedDamageScale value="2.20000000" />
           <pedDamageHashNames>
             <Item>0xD9C4B058</Item>
             <Item>0x39719431</Item>
@@ -6807,7 +6807,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0x7B8E47BD</Item>
           </pedDamageHashNames>
@@ -6818,7 +6818,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x470C3CE6</Item>
           </pedDamageHashNames>
@@ -6829,7 +6829,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x470C3CE6</Item>
           </pedDamageHashNames>
@@ -6844,7 +6844,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.25000000" />
+          <pedDamageScale value="2.50000000" />
           <pedDamageHashNames>
             <Item>0x36719C7C</Item>
           </pedDamageHashNames>
@@ -6855,7 +6855,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x36719C7C</Item>
           </pedDamageHashNames>
@@ -6866,7 +6866,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -6881,7 +6881,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xE28A743A</Item>
           </pedDamageHashNames>
@@ -6896,7 +6896,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x7570CE72</Item>
           </pedDamageHashNames>
@@ -6911,7 +6911,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xF85A3B60</Item>
           </pedDamageHashNames>
@@ -6926,7 +6926,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="5.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.25000000" />
+          <pedDamageScale value="2.50000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -6937,7 +6937,7 @@
           <pedDamageRangeMin value="5.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -6948,7 +6948,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -6963,7 +6963,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x05051465</Item>
           </pedDamageHashNames>
@@ -6978,7 +6978,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xD2DBDA1B</Item>
           </pedDamageHashNames>
@@ -6989,7 +6989,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xC202BBDB</Item>
           </pedDamageHashNames>
@@ -7000,7 +7000,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAB767573</Item>
           </pedDamageHashNames>
@@ -7011,7 +7011,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xD8B7D6FA</Item>
           </pedDamageHashNames>
@@ -7026,7 +7026,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xB7C59346</Item>
           </pedDamageHashNames>
@@ -7041,7 +7041,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -7052,7 +7052,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x56069980</Item>
           </pedDamageHashNames>
@@ -7067,7 +7067,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x1B5986F2</Item>
             <Item>0xC62C4F01</Item>
@@ -7083,7 +7083,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x59B32510</Item>
           </pedDamageHashNames>
@@ -7098,7 +7098,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x5A4B728F</Item>
           </pedDamageHashNames>
@@ -7113,7 +7113,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x014B4086</Item>
           </pedDamageHashNames>
@@ -7128,7 +7128,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x2105960C</Item>
           </pedDamageHashNames>
@@ -7143,7 +7143,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.15000000" />
+          <pedDamageScale value="2.30000000" />
           <pedDamageHashNames>
             <Item>0x6138B05A</Item>
           </pedDamageHashNames>
@@ -7158,7 +7158,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.10000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xAF6A03E9</Item>
           </pedDamageHashNames>
@@ -7169,7 +7169,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x8DD4ABD1</Item>
           </pedDamageHashNames>
@@ -7180,7 +7180,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x8DD4ABD1</Item>
           </pedDamageHashNames>
@@ -7195,7 +7195,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xA8A0C59D</Item>
           </pedDamageHashNames>
@@ -7210,7 +7210,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xF85A3B60</Item>
           </pedDamageHashNames>
@@ -7225,7 +7225,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x2BD4E5A2</Item>
           </pedDamageHashNames>
@@ -7240,7 +7240,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x19749F71</Item>
           </pedDamageHashNames>
@@ -7255,7 +7255,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x0C1F13C0</Item>
           </pedDamageHashNames>
@@ -7270,7 +7270,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x3727EDBA</Item>
           </pedDamageHashNames>
@@ -7285,7 +7285,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x4C0F7E4E</Item>
           </pedDamageHashNames>
@@ -7300,7 +7300,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x044493CA</Item>
           </pedDamageHashNames>
@@ -7315,7 +7315,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="6.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.90000000" />
+          <pedDamageScale value="1.80000000" />
           <pedDamageHashNames>
             <Item>0xAA8BB007</Item>
           </pedDamageHashNames>
@@ -7326,7 +7326,7 @@
           <pedDamageRangeMin value="6.00000000" />
           <pedDamageRangeMax value="15.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xAA8BB007</Item>
           </pedDamageHashNames>
@@ -7337,7 +7337,7 @@
           <pedDamageRangeMin value="15.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x49633EFA</Item>
           </pedDamageHashNames>
@@ -7348,7 +7348,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0xFF29C364</Item>
           </pedDamageHashNames>
@@ -7363,7 +7363,7 @@
           <pedDamageRangeMin value="0.00000000" />
           <pedDamageRangeMax value="10.00000000" />
           <pedDamageProbability value="1.10000000" />
-          <pedDamageScale value="1.50000000" />
+          <pedDamageScale value="3.00000000" />
           <pedDamageHashNames>
             <Item>0xCF5CC7CC</Item>
           </pedDamageHashNames>
@@ -7374,7 +7374,7 @@
           <pedDamageRangeMin value="10.00000000" />
           <pedDamageRangeMax value="30.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="1.00000000" />
+          <pedDamageScale value="2.00000000" />
           <pedDamageHashNames>
             <Item>0x842103E5</Item>
           </pedDamageHashNames>
@@ -7385,7 +7385,7 @@
           <pedDamageRangeMin value="30.00000000" />
           <pedDamageRangeMax value="1000.00000000" />
           <pedDamageProbability value="1.00000000" />
-          <pedDamageScale value="0.75000000" />
+          <pedDamageScale value="1.50000000" />
           <pedDamageHashNames>
             <Item>0x470C3CE6</Item>
           </pedDamageHashNames>
@@ -7612,7 +7612,7 @@
     <Item key="0x11AA9628" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.00000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>0x63D68065</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0x4A853826</UNK_MEMBER_0xC1F980C2>
@@ -8044,7 +8044,7 @@
     <Item key="0x57D64299" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.20000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>BLOOD_ANIMAL_MAUL</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0x58DC8B8D</UNK_MEMBER_0xC1F980C2>
@@ -8104,7 +8104,7 @@
     <Item key="0x6355B239" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.20000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>BLOOD_ANIMAL_MAUL</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0x7EE97F1A</UNK_MEMBER_0xC1F980C2>
@@ -8452,7 +8452,7 @@
     <Item key="0x9A7D870F" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.00000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>0x013EDAA8</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0xBFA0B264</UNK_MEMBER_0xC1F980C2>
@@ -8476,7 +8476,7 @@
     <Item key="0x9DF12A34" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.20000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>BLOOD_ANIMAL_MAUL</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0x566D7A1A</UNK_MEMBER_0xC1F980C2>
@@ -9004,7 +9004,7 @@
     <Item key="0xE3451A5C" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.00000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>0xF70155B5</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0xE68643F8</UNK_MEMBER_0xC1F980C2>
@@ -9088,7 +9088,7 @@
     <Item key="0xF83D9C58" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.20000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B />
           <UNK_MEMBER_0xA2D1714E>BLOOD_ANIMAL_MAUL</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0x0D832A26</UNK_MEMBER_0xC1F980C2>
@@ -9414,7 +9414,7 @@
     <Item key="0xD6AC22B6" type="0xB1DBDAA0">
       <UNK_MEMBER_0xAA79F10B>
         <Item>
-          <ptFxDecalProbability value="0.30000000" />
+          <ptFxDecalProbability value="1.00000000" />
           <UNK_MEMBER_0x84630D0B>0xF476522C</UNK_MEMBER_0x84630D0B>
           <UNK_MEMBER_0xA2D1714E>BLOOD_EXIT_CRITICAL</UNK_MEMBER_0xA2D1714E>
           <UNK_MEMBER_0xC1F980C2>0xD957B2DE</UNK_MEMBER_0xC1F980C2>
